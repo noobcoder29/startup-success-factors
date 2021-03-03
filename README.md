@@ -5,3 +5,5 @@ It is primarily used in medical research for factor identification of diseases b
 This is a first of it's kind holistic study conducted by using meta analysis in entrepreneurship. Such advanced statistical methods are crucial in the field of new ventures for the entrepreneurs, investors and policy makers as historical data about startups are often unavailable as they are new to the environment hence, it's important to understand emperically how sustainable and impactful their business strategy will be based on the factors they prioritize.
 
 For confidential reasons of research, the program of the statistical model implemented has not been uploaded since there is further work progressing on the same. However if interested to collab, or require any information, don't hesitate to email.
+
+FIND MY PUBLISHED PAPER HERE: https://ieeexplore.ieee.org/document/9184880
